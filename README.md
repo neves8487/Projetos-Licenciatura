@@ -28,4 +28,4 @@ Repositório para guardar os principais trabalhos realizados ao longo da minha l
 ## 🧾 Notas
 
 - Cada pasta contém o código, documentação e relatórios do respetivo projeto.
-- Este repositório é apenas para fins académicos.
+
