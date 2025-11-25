@@ -25,6 +25,17 @@ Repositório para guardar os principais trabalhos realizados ao longo da minha l
 
 ---
 
+## 📘 3º Ano
+
+| Cadeira | Descrição | Ficheiros |
+|---------|-----------|-----------|
+| **SI2**  | Sistemas de infiormação 2 — Desenvolvimento de um Sistema de Apoio à Decisão (Data Mart) para o Porto da Figueira da Foz. Envolve a criação de um modelo dimensional em estrela (SQL Server), processos de ETL em Python (integrando dados de MySQL e CSV) e dashboards de análise estratégica em Power BI. | Ainda em desenvolvimento... |
+| **IC**  | Inteligência computacional — Desenvolvimento de uma Rede Neuronal (CNN) para classificação de imagens, otimização automática de hiperparâmetros através de algoritmos de **Swarm Intelligence** e integração **Transfer Learning** numa Web App para classificação em tempo real.| Ainda em desenvolvimento... |
+| **PWEB**  | Programação Web — Desenvolvimento de uma plataforma de e-commerce híbrido para compra e venda de produtos multimédia. O projeto recorre a .NET 8 e Blazor Hybrid para unificar interfaces Web e Mobile num único código base , comunica via API RESTful com autenticação JWT e gere dados relacionais e regras de negócio complexas em SQL Server. | Ainda em desenvolvimento... |
+
+
+---
+
 ## 🧾 Notas
 
 - Cada pasta contém o código, documentação e relatórios do respetivo projeto.
